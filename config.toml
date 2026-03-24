@@ -1,6 +1,7 @@
 baseURL = "https://quangvmzu.github.io/fcj-workshop/"
 relativeURLs = true
 canonifyURLs = true
+publishDir = "docs"
 staticDir = "static"
 buildFuture = true
 
