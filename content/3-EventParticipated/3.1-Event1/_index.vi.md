@@ -1,5 +1,5 @@
 ---
-title: "3.1. Event 1 - Building Full-Stack Observability on AWS with Datadog"
+title: "Event 1 - Building Full-Stack Observability on AWS with Datadog"
 date: 2026-02-27
 weight: 1
 chapter: false
