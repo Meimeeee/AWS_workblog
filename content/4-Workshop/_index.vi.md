@@ -27,7 +27,7 @@ Nội dung được tổ chức theo đúng trình tự runtime đang được t
 - **Backend**: Spring Boot monolith với controllers, services, repositories, schedulers, events và async notifications
 - **Tích hợp**: JWT auth, OTP verification, VNPay, SMTP email, AWS S3, AWS Location và cấu hình media/storage như Cloudinary khi được bật
 
-![EV Charging System Architecture](/images/4-workshop/ev-achi.png)
+![EV Charging System Architecture](/images/4-Workshop/ev-achi.png)
 
 ## Mục tiêu workshop
 

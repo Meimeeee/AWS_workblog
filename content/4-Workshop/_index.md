@@ -27,7 +27,7 @@ The content is organized around the implemented runtime sequence:
 - **Backend**: Spring Boot monolith with controllers, services, repositories, schedulers, events, and async notifications
 - **Integrations**: JWT auth, OTP verification, VNPay, SMTP email, AWS S3, AWS Location, and media/storage configuration such as Cloudinary when enabled
 
-![EV Charging System Architecture](/images/4-workshop/ev-achi.png)
+![EV Charging System Architecture](/images/4-Workshop/ev-achi.png)
 
 ## Workshop objectives
 
