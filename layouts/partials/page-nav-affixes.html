@@ -1,0 +1,17 @@
+{{ $page := . }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "pre" $page.Params.Pre }}
+{{ $scratch.Set "post" $page.Params.Post }}
+
+{{ if or (not ($scratch.Get "pre")) (not ($scratch.Get "post")) }}
+  {{ range $page.AllTranslations }}
+    {{ if and (not ($scratch.Get "pre")) .Params.Pre }}
+      {{ $scratch.Set "pre" .Params.Pre }}
+    {{ end }}
+    {{ if and (not ($scratch.Get "post")) .Params.Post }}
+      {{ $scratch.Set "post" .Params.Post }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return (dict "pre" ($scratch.Get "pre") "post" ($scratch.Get "post")) }}
