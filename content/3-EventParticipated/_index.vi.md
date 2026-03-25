@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-# Sự kiện đã tham gia
-
 ## Building Full-Stack Observability on AWS with Datadog
 
 **Thời gian:** 27/02/2026 (14:00 – 17:00)  
