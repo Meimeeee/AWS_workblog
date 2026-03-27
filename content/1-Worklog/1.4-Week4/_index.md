@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 1.4. </b> "
 ---
 
-### Week 4 Objectives
+### Key Goals for Week 4
 
-This week focused on operating systems in a production-ready environment, covering automation, security, reliability, performance, and cost optimization based on the AWS Well-Architected Framework.
+The primary focus of this week was operating systems in a production-ready environment, covering automation, security, reliability, performance, and cost optimization based on the AWS Well-Architected Framework.
 
 - **Operational Excellence**:
   - Automate tasks using AWS Lambda (EC2 shutdown, Slack notifications)
@@ -38,9 +38,9 @@ This week focused on operating systems in a production-ready environment, coveri
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
 |  2  | **Automation & Monitoring**:<br>- AWS Lambda<br>- CloudWatch + Grafana<br>- EC2 Tagging<br>- Systems Manager | 26/01/2026 | 26/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 |  3  | **Security**:<br>- IAM Permission Boundary<br>- Security Hub<br>- AWS WAF | 27/01/2026 | 27/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
@@ -50,9 +50,9 @@ This week focused on operating systems in a production-ready environment, coveri
 
 ---
 
-### Week 4 Achievements
+### Week 4 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
 - Automated operations:
   - Automated EC2 shutdown and notifications using Lambda
@@ -61,7 +61,7 @@ This week focused on operating systems in a production-ready environment, coveri
 
 - Enhanced security:
   - Implemented **IAM Permission Boundaries**
-  - Deployed **AWS WAF**
+  - Implemented **AWS WAF**
   - Audited security with **Security Hub**
 
 - Improved reliability:
@@ -69,7 +69,7 @@ This week focused on operating systems in a production-ready environment, coveri
   - Ensured stable networking via **VPC Peering** and **Transit Gateway**
 
 - Optimized performance:
-  - Deployed containerized applications using **Docker + ECS**
+  - Implemented containerized applications using **Docker + ECS**
   - Built CI/CD pipelines
 
 - Optimized cost:
@@ -77,7 +77,7 @@ This week focused on operating systems in a production-ready environment, coveri
   - Performed **EC2 right-sizing**
   - Monitored and visualized cost usage
 
-#### Architecture Summary
+#### High-Level Architecture
 
 - **Automation**: Lambda + Systems Manager
 - **Monitoring**: CloudWatch + Grafana

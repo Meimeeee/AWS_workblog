@@ -9,11 +9,11 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Vũ Minh Quang
+&emsp; **Họ và tên:** Nguyễn Thị Ngọc Tuyền
 
-&emsp; **Số điện thoại:** 0378554725
+&emsp; **Số điện thoại:** 0772882174
 
-&emsp; **Email:** vminhquang05@gmail.com
+&emsp; **Email:** ngoctuyen130105@gmail.com
 
 &emsp; **Trường:** Trường đại học FPT
 

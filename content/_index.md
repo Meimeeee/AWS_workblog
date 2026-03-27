@@ -9,11 +9,11 @@ chapter: false
 
 ### Student Information:
 
-&emsp; **Full Name:** Vu Minh Quang
+&emsp; **Full Name:** Nguyen Thi Ngoc Tuyen
 
-&emsp; **Phone Number:** 0378554725
+&emsp; **Phone Number:** 0772882174
 
-&emsp; **Email:** vminhquang05@gmail.com
+&emsp; **Email:** ngoctuyen130105@gmail.com
 
 &emsp; **University:** FPT Univeristy
 

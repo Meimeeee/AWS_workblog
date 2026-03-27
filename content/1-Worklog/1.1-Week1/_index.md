@@ -6,23 +6,23 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-### Week 1 Objectives
+### Key Goals for Week 1
 
-This week focused on getting familiar with AWS, setting up the initial environment, and building a foundation in account management and cost control. The key objectives included:
+The primary focus of this week was getting familiar with AWS, setting up the initial environment, and building a foundation in account management and cost control. Main goals were as follows:
 
-- **Learn AWS fundamentals**:
+- **Study AWS fundamentals**:
   - Understand how AWS works and cloud deployment models
   - Explore core services (EC2, S3, IAM, VPC, etc.)
 
-- **Get familiar with lab environment**:
+- **Become acquainted with lab environment**:
   - Understand lab structure
-  - Learn hands-on workflow
+  - Study hands-on workflow
 
 - **Team formation**:
   - Form a team
   - Get to know teammates and collaborate
 
-- **Set up AWS account**:
+- **Configured AWS account**:
   - Create a new AWS account (Free Tier)
   - Enable **MFA for Root User**
   - Create IAM Admin User
@@ -39,9 +39,9 @@ This week focused on getting familiar with AWS, setting up the initial environme
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
 |  2  | **AWS Fundamentals**:<br>- AWS overview<br>- Cloud model<br>- Core services | 05/01/2026 | 05/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 |  3  | **Lab Introduction**:<br>- Lab structure<br>- Hands-on workflow | 06/01/2026 | 06/01/2026 | [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/) |
@@ -51,21 +51,21 @@ This week focused on getting familiar with AWS, setting up the initial environme
 
 ---
 
-### Week 1 Achievements
+### Week 1 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
-- Gained a solid understanding of **AWS fundamentals**
-- Learned how to approach and complete **hands-on labs**
-- Successfully formed a **team** and collaborated with peers
+- Acquired comprehensive knowledge of **AWS fundamentals**
+- Studyed how to approach and complete **hands-on labs**
+- Effectively formed a **team** and collaborated with peers
 - Created an AWS account with **Free Tier credits (~$100)**
 - Enabled **MFA for Root User**
 - Created a dedicated **IAM User**
 - Became familiar with the **AWS Console**
 - Configured **AWS Budgets** for cost control
-- Set up **cost alerts** and cleaned up resources
+- Configured **cost alerts** and cleaned up resources
 
-#### Best Practices Summary
+#### High-level review of Guiding Principles
 
 - **Security**:
   - Avoid using Root Account daily
@@ -75,6 +75,6 @@ This week focused on getting familiar with AWS, setting up the initial environme
   - Track usage with AWS Budgets
   - Set alerts for thresholds
 
-- **Learning**:
+- **Studying**:
   - Hands-on labs
   - Team collaboration

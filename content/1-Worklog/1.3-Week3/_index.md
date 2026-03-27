@@ -6,24 +6,24 @@ chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
-### Week 3 Objectives
+### Key Goals for Week 3
 
-This week focused on developing the final project idea and gaining hands-on experience with core AWS services such as EC2, S3, IAM, and RDS. The key objectives included:
+The primary focus of this week was developing the final project idea and gaining hands-on experience with core AWS services such as EC2, S3, IAM, and RDS. Main goals were as follows:
 
 - **Final Project Development**:
   - Brainstorm project ideas
   - Identify suitable AWS services
   - Design a preliminary architecture
 
-- **EC2 Practice**:
+- **EC2 Engage in**:
   - Understand EC2 service
   - Launch virtual machines
   - Configure instances
   - Create and use custom AMIs
 
 - **Access Management & Development Environment**:
-  - Practice IAM Roles
-  - Get familiar with AWS Cloud9
+  - Engage in IAM Roles
+  - Become acquainted with AWS Cloud9
 
 - **Storage & Data Management**:
   - Configure Amazon S3
@@ -39,24 +39,24 @@ This week focused on developing the final project idea and gaining hands-on expe
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
 |  2  | **Project Planning**:<br>- Brainstorm ideas<br>- Select AWS services<br>- Draft architecture | 19/01/2026 | 19/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 |  3  | **EC2 & AMI**:<br>- Launch EC2<br>- Configure instances<br>- Create custom AMI | 20/01/2026 | 20/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
-|  4  | **IAM Role & Cloud9**:<br>- Practice IAM Roles<br>- Explore Cloud9 | 21/01/2026 | 21/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
+|  4  | **IAM Role & Cloud9**:<br>- Engage in IAM Roles<br>- Explore Cloud9 | 21/01/2026 | 21/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 |  5  | **S3 Storage**:<br>- Configure S3<br>- Public access<br>- Versioning | 22/01/2026 | 22/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 |  6  | **RDS & Review**:<br>- Create RDS database<br>- Manage DB<br>- Review concepts | 23/01/2026 | 23/01/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 
 ---
 
-### Week 3 Achievements
+### Week 3 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
 - Designed a clear architecture for the **final project**
-- Successfully deployed and managed multiple **EC2 instances**
+- Effectively deployed and managed multiple **EC2 instances**
 - Created and utilized **custom AMIs**
 - Applied **IAM Roles** in real scenarios
 - Became familiar with **AWS Cloud9**
@@ -67,7 +67,7 @@ This week focused on developing the final project idea and gaining hands-on expe
 - Created and operated a database using **Amazon RDS**
 - Reinforced knowledge from previous weeks
 
-#### Architecture Summary
+#### High-Level Architecture
 
 - **Compute**: EC2 with custom AMIs
 - **Storage**: S3 (Static Hosting + Versioning + Replication)

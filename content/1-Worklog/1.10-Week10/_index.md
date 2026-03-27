@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 1.10. </b> "
 ---
 
-### Week 10 Objectives
+### Key Goals for Week 10
 
-This week focused on completing advanced business features, including the reward points system, violation management, and role-based functionalities to enhance system control and user management.
+The primary focus of this week was completing advanced business features, including the reward points system, violation management, and role-based functionalities to enhance system control and user management.
 
 - **Reward Points System**:
   - Design and implement point accumulation logic
@@ -31,9 +31,9 @@ This week focused on completing advanced business features, including the reward
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
 |  2  | **Reward System Development**:<br>- Implement point logic<br>- Database integration | 16/03/2026 | 17/03/2026 | Internal |
 |  3  | **Violation Management**:<br>- Build violation tracking<br>- Define penalty rules | 18/03/2026 | 19/03/2026 | Internal |
@@ -43,18 +43,18 @@ This week focused on completing advanced business features, including the reward
 
 ---
 
-### Week 10 Achievements
+### Week 10 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
-- Successfully implemented the **Reward Points System**
+- Effectively implemented the **Reward Points System**
 - Developed a **Violation Management module** with tracking and handling mechanisms
 - Applied **Role-Based Access Control (RBAC)** across the system
 - Ensured secure and structured access to system features
 - Improved overall system logic and maintainability
 - Completed integration and validation of new features
 
-#### Architecture Summary
+#### High-Level Architecture
 
 - **Business Logic**: Reward & Violation modules
 - **Security Layer**: Role-Based Access Control (RBAC)

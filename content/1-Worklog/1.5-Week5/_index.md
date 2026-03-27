@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 1.5. </b> "
 ---
 
-### Week 5 Objectives
+### Key Goals for Week 5
 
-This week focused on preparing for the final project implementation, setting up the environment, and expanding practical knowledge through community engagement and AWS service exploration.
+The primary focus of this week was preparing for the final project implementation, setting up the environment, and expanding practical knowledge through community engagement and AWS service exploration.
 
 - **Project Preparation**:
   - Collaborate with FCJ members
@@ -24,16 +24,16 @@ This week focused on preparing for the final project implementation, setting up 
 
 - **Community Engagement**:
   - Attend **AWS re:Invent Recap HCMC (04/02/2026)**
-  - Learn about new trends and best practices
+  - Study about new trends and best practices
 
 - **Review & Reinforcement**:
   - Review knowledge from Week 1–4
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
 |  2  | **Project Preparation**:<br>- Discuss with FCJ members<br>- Define project direction | 02/02/2026 | 02/02/2026 | Internal |
 |  3  | **Environment Setup**:<br>- Research environment<br>- Prepare infrastructure | 03/02/2026 | 03/02/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
@@ -43,9 +43,9 @@ This week focused on preparing for the final project implementation, setting up 
 
 ---
 
-### Week 5 Achievements
+### Week 5 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
 - Gained a clearer understanding of the **final project scope and direction**
 - Expanded knowledge through collaboration with **FCJ community**
@@ -58,5 +58,5 @@ This week focused on preparing for the final project implementation, setting up 
 
 - **Project**: Defined architecture and technology stack
 - **Environment**: Ready for implementation
-- **Learning**: Combined theory, practice, and community insights
+- **Studying**: Combined theory, practice, and community insights
 - **Optimization**: Focused on performance and cost efficiency

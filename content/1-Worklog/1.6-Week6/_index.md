@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 1.6. </b> "
 ---
 
-### Week 6 Objectives
+### Key Goals for Week 6
 
-This week focused on learning and practicing relational databases using SQL Server, including schema design, data operations, and performance evaluation.
+The primary focus of this week was learning and practicing relational databases using SQL Server, including schema design, data operations, and performance evaluation.
 
 - **SQL Server Fundamentals**:
   - Databases, tables, rows, columns
@@ -35,9 +35,9 @@ This week focused on learning and practicing relational databases using SQL Serv
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
 |  2  | **SQL Server Fundamentals**:<br>- Database, tables, schema<br>- Primary & Foreign Keys | 09/02/2026 | 09/02/2026 | Microsoft Docs |
 |  3  | **Database Setup**:<br>- Create database<br>- Design tables and constraints | 10/02/2026 | 10/02/2026 | Microsoft Docs |
@@ -46,18 +46,18 @@ This week focused on learning and practicing relational databases using SQL Serv
 
 ---
 
-### Week 6 Achievements
+### Week 6 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
-- Successfully created and configured a **SQL Server database**
+- Effectively created and configured a **SQL Server database**
 - Understood **schema design, primary keys, and foreign keys**
 - Performed full **CRUD operations using SQL queries**
 - Used **SSMS / Azure Data Studio** effectively
 - Worked with **AWS RDS (SQL Server)** or local setup
 - Evaluated **query performance and execution plans**
 
-#### Architecture Summary
+#### High-Level Architecture
 
 - **Database**: SQL Server (Relational)
 - **Schema Design**:

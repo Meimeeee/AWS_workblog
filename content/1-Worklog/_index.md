@@ -18,9 +18,9 @@ The program not only helped me understand core AWS services, but also developed 
 
 ### **Week 1: AWS Fundamentals – Foundation Setup**
 
-- Learned core AWS concepts and cloud deployment models
+- Studyed core AWS concepts and cloud deployment models
 - Created and secured AWS account (MFA, IAM best practices)
-- Set up **IAM Users, Groups, and Roles**
+- Configured **IAM Users, Groups, and Roles**
 - Configured **AWS Budgets** for cost control
 - Explored AWS Console and basic services
 
@@ -28,7 +28,7 @@ The program not only helped me understand core AWS services, but also developed 
 
 ### **Week 2: IAM & Networking Fundamentals**
 
-- Practiced **IAM** (Users, Groups, Policies, Roles, Switch Role)
+- Engage ind **IAM** (Users, Groups, Policies, Roles, Switch Role)
 - Understood **VPC architecture** and networking basics
 - Compared **Security Groups vs Network ACLs**
 - Launched and connected to **EC2 instances**
@@ -66,7 +66,7 @@ The program not only helped me understand core AWS services, but also developed 
 
 - Collaborated with team members to define project scope
 - Designed system architecture and selected AWS services
-- Set up development environment for project implementation
+- Configured development environment for project implementation
 - Explored AWS services for:
   - Cost optimization
   - Performance improvement

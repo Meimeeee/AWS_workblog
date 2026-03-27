@@ -6,12 +6,12 @@ chapter: false
 pre: " <b> 1.9. </b> "
 ---
 
-### Week 9 Objectives
+### Key Goals for Week 9
 
-This week focused on test deployment, end-to-end system validation, and fixing issues discovered during implementation and testing.
+The primary focus of this week was test deployment, end-to-end system validation, and fixing issues discovered during implementation and testing.
 
-- **System Deployment**:
-  - Deploy the application to a real environment on EC2
+- **System Implementment**:
+  - Implement the application to a real environment on EC2
   - Configure related services such as RDS, S3, and AWS Map
   - Verify connectivity between system components
 
@@ -31,11 +31,11 @@ This week focused on test deployment, end-to-end system validation, and fixing i
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
-|  2  | **Deployment Setup**:<br>- Deploy app to EC2<br>- Configure environment | 09/03/2026 | 09/03/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
+|  2  | **Implementment Setup**:<br>- Implement app to EC2<br>- Configure environment | 09/03/2026 | 09/03/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 |  3  | **System Testing**:<br>- Test main features<br>- Check data flow | 10/03/2026 | 10/03/2026 | Internal |
 |  4  | **Bug Fixing**:<br>- Identify issues<br>- Debug the system | 11/03/2026 | 11/03/2026 | Internal |
 |  5  | **Optimization**:<br>- Improve code quality<br>- Tune performance | 12/03/2026 | 12/03/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
@@ -43,11 +43,11 @@ This week focused on test deployment, end-to-end system validation, and fixing i
 
 ---
 
-### Week 9 Achievements
+### Week 9 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
-- Successfully deployed the application to **Amazon EC2**
+- Effectively deployed the application to **Amazon EC2**
 - Verified stable connections with:
   - **Amazon RDS**
   - **Amazon S3**
@@ -57,7 +57,7 @@ This week focused on test deployment, end-to-end system validation, and fixing i
 - Improved performance and overall user experience
 - Brought the system to a **demo-ready** state
 
-#### Architecture Summary
+#### High-Level Architecture
 
 - **Compute**: EC2 (application deployment)
 - **Database**: RDS (SQL Server)

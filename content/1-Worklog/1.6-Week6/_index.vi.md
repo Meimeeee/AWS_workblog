@@ -6,20 +6,20 @@ chapter: false
 pre: " <b> 1.6. </b> "
 ---
 
-### Mục tiêu Tuần 6
+### Nội dung công việc trọng tâm Tuần 6
 
-Tuần này tập trung vào việc tìm hiểu và thực hành cơ sở dữ liệu quan hệ với SQL Server, bao gồm thiết kế bảng, thao tác dữ liệu và đánh giá hiệu năng.
+Trọng tâm của tuần này là tìm hiểu và thực hành cơ sở dữ liệu quan hệ với SQL Server, bao gồm thiết kế bảng, thao tác dữ liệu và đánh giá hiệu năng.
 
-- **Tìm hiểu SQL Server cơ bản**:
+- **Nghiên cứu SQL Server cơ bản**:
   - Database, tables, rows, columns
   - Primary key, foreign key
   - Schema và thiết kế bảng
 
 - **Tạo và cấu hình database**:
   - Tạo database và table
-  - Thiết lập các ràng buộc (constraints)
+  - Cài đặt các ràng buộc (constraints)
 
-- **Thực hành CRUD với SQL**:
+- **Thao tác CRUD với SQL**:
   - INSERT
   - SELECT
   - UPDATE
@@ -35,9 +35,9 @@ Tuần này tập trung vào việc tìm hiểu và thực hành cơ sở dữ l
 
 ---
 
-### Tổng quan công việc
+### Tóm tắt các đầu việc
 
-| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| Ngày | Nội dung công việc | Bắt đầu | Kết thúc | Nguồn tham khảo |
 |:----:|---------|:------------:|:---------------:|-------------------|
 |  2   | **SQL Server Fundamentals**:<br>- Database, tables, schema<br>- Primary & Foreign Key | 09/02/2026 | 09/02/2026 | Microsoft Docs |
 |  3   | **Database Setup**:<br>- Tạo database<br>- Thiết kế bảng và constraints | 10/02/2026 | 10/02/2026 | Microsoft Docs |
@@ -46,18 +46,18 @@ Tuần này tập trung vào việc tìm hiểu và thực hành cơ sở dữ l
 
 ---
 
-### Kết quả đạt được
+### Thành tựu đạt được
 
-#### Những gì đã hoàn thành
+#### Các công việc đã hoàn tất
 
 - Tạo và cấu hình thành công **database SQL Server**
-- Hiểu rõ **schema, primary key và foreign key**
+- Nắm bắt được **schema, primary key và foreign key**
 - Thực hiện đầy đủ các thao tác **CRUD bằng SQL**
 - Sử dụng thành thạo **SSMS / Azure Data Studio**
-- Làm quen với **AWS RDS (SQL Server)** hoặc môi trường local
+- Bước đầu tiếp cận với **AWS RDS (SQL Server)** hoặc môi trường local
 - Đánh giá được **hiệu năng truy vấn và execution plan**
 
-#### Tóm tắt kiến trúc
+#### Cấu trúc tổng quan
 
 - **Database**: SQL Server (Relational Database)
 - **Schema Design**:

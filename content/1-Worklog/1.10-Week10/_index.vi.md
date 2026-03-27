@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1.10. </b> "
 ---
 
-### Mục tiêu Tuần 10
+### Nội dung công việc trọng tâm Tuần 10
 
 Tuần này tập trung hoàn thiện các tính năng nghiệp vụ nâng cao, bao gồm hệ thống điểm thưởng, quản lý vi phạm và chức năng phân quyền nhằm tăng cường khả năng kiểm soát và quản lý người dùng.
 
@@ -21,7 +21,7 @@ Tuần này tập trung hoàn thiện các tính năng nghiệp vụ nâng cao, 
   - Cung cấp công cụ cho admin giám sát
 
 - **Chức năng theo vai trò**:
-  - Triển khai phân quyền người dùng (RBAC)
+  - Thực thi phân quyền người dùng (RBAC)
   - Xác định quyền cho từng vai trò
   - Bảo mật các chức năng quan trọng
 
@@ -31,13 +31,13 @@ Tuần này tập trung hoàn thiện các tính năng nghiệp vụ nâng cao, 
 
 ---
 
-### Tổng quan công việc
+### Tóm tắt các đầu việc
 
-| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu |
+| Ngày | Công việc | Bắt đầu | Kết thúc | Tài liệu |
 | :-: |----------|:------------:|:---------------:|----------|
 |  2  | **Phát triển hệ thống điểm thưởng**:<br>- Xây dựng logic tích điểm<br>- Tích hợp database | 16/03/2026 | 17/03/2026 | Nội bộ |
 |  3  | **Quản lý vi phạm**:<br>- Xây dựng tracking vi phạm<br>- Định nghĩa xử phạt | 18/03/2026 | 19/03/2026 | Nội bộ |
-|  4  | **Phân quyền người dùng**:<br>- Triển khai RBAC<br>- Gán quyền | 20/03/2026 | 21/03/2026 | Security Docs |
+|  4  | **Phân quyền người dùng**:<br>- Thực thi RBAC<br>- Gán quyền | 20/03/2026 | 21/03/2026 | Security Docs |
 |  5  | **Tích hợp & Kiểm thử**:<br>- Tích hợp các module<br>- Kiểm tra luồng hệ thống | 22/03/2026 | 23/03/2026 | Nội bộ |
 |  6  | **Tối ưu & Hoàn thiện**:<br>- Cải thiện hiệu năng<br>- Refactor code | 24/03/2026 | 25/03/2026 | Nội bộ |
 
@@ -54,7 +54,7 @@ Tuần này tập trung hoàn thiện các tính năng nghiệp vụ nâng cao, 
 - Cải thiện logic và khả năng bảo trì
 - Hoàn tất tích hợp và kiểm thử các tính năng mới
 
-#### Tóm tắt kiến trúc
+#### Cấu trúc tổng quan
 
 - **Logic nghiệp vụ**: Module điểm thưởng & vi phạm
 - **Bảo mật**: Phân quyền RBAC

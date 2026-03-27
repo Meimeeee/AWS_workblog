@@ -8,7 +8,7 @@ pre: " <b> 1.13. </b> "
 
 ### Mục tiêu tuần 13
 
-Tuần này tập trung vào việc theo dõi hệ thống sau khi go-live, tối ưu hiệu năng, sửa lỗi và thu thập phản hồi từ người dùng thực tế.
+Trọng tâm của tuần này là theo dõi hệ thống sau khi go-live, tối ưu hiệu năng, sửa lỗi và thu thập phản hồi từ người dùng thực tế.
 
 - **Giám sát sau triển khai**:
   - Theo dõi hiệu năng và uptime hệ thống
@@ -32,9 +32,9 @@ Tuần này tập trung vào việc theo dõi hệ thống sau khi go-live, tố
 
 ---
 
-### Tổng quan công việc
+### Tóm tắt các đầu việc
 
-| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu |
+| Ngày | Công việc | Bắt đầu | Kết thúc | Tài liệu |
 | :-: |-----------|:------------:|:---------------:|----------|
 |  2  | **Giám sát hệ thống**:<br>- Theo dõi log & metrics<br>- Kiểm tra uptime | 06/04/2026 | 06/04/2026 | CloudWatch |
 |  3  | **Tối ưu hiệu năng**:<br>- Tối ưu query<br>- Cải thiện tốc độ API | 07/04/2026 | 08/04/2026 | Internal |
@@ -53,9 +53,9 @@ Tuần này tập trung vào việc theo dõi hệ thống sau khi go-live, tố
 - Cải thiện hiệu năng và độ phản hồi của hệ thống
 - Nâng cao trải nghiệm người dùng
 - Thu thập dữ liệu quan trọng cho các cải tiến tiếp theo
-- Thiết lập quy trình vận hành sau triển khai
+- Cài đặt quy trình vận hành sau triển khai
 
-#### Tổng quan kiến trúc
+#### Khái quát kiến trúc
 
 - **Giai đoạn**: Sau triển khai / Vận hành
 - **Giám sát**: Theo dõi liên tục (log, metrics, cảnh báo)

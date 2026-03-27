@@ -18,20 +18,20 @@ Chương trình không chỉ giúp tôi nắm vững các dịch vụ cốt lõi
 
 ### **Tuần 1: AWS Fundamentals – Nền tảng cơ bản**
 
-- Tìm hiểu tổng quan AWS và mô hình Cloud  
+- Nghiên cứu tổng quan AWS và mô hình Cloud  
 - Tạo và bảo mật tài khoản AWS (MFA, IAM best practices)  
-- Thiết lập **IAM Users, Groups, Roles**  
+- Cài đặt **IAM Users, Groups, Roles**  
 - Cấu hình **AWS Budgets** để quản lý chi phí  
-- Làm quen với AWS Console  
+- Bước đầu tiếp cận với AWS Console  
 
 ---
 
 ### **Tuần 2: IAM & Networking**
 
-- Thực hành **IAM** (Users, Groups, Policies, Roles, Switch Role)  
-- Nắm vững kiến trúc **VPC**  
+- Thao tác **IAM** (Users, Groups, Policies, Roles, Switch Role)  
+- Trang bị kiến thức kiến trúc **VPC**  
 - So sánh **Security Group vs Network ACL**  
-- Triển khai và kết nối **EC2 instance**  
+- Thực thi và kết nối **EC2 instance**  
 - Cấu hình:
   - **Hybrid DNS (Route 53 Resolver)**  
   - **VPC Peering**  
@@ -42,7 +42,7 @@ Chương trình không chỉ giúp tôi nắm vững các dịch vụ cốt lõi
 ### **Tuần 3: Dịch vụ AWS cốt lõi & Định hướng dự án**
 
 - Lên ý tưởng và thiết kế kiến trúc cho **dự án cuối kỳ**  
-- Thực hành:
+- Thao tác:
   - **EC2** (triển khai, cấu hình, custom AMI)  
   - **S3** (host website tĩnh, versioning)  
   - **IAM Role**, **Cloud9**  
@@ -60,7 +60,7 @@ Chương trình không chỉ giúp tôi nắm vững các dịch vụ cốt lõi
   - **Hiệu năng (Performance Efficiency)**  
   - **Tối ưu chi phí (Cost Optimization)**  
 
-- Thực hành:
+- Thao tác:
   - Automation với Lambda  
   - Monitoring với CloudWatch  
   - CI/CD với CodePipeline  
@@ -68,7 +68,7 @@ Chương trình không chỉ giúp tôi nắm vững các dịch vụ cốt lõi
 
 ---
 
-### **Tuần 5: Chuẩn bị dự án & Thiết lập môi trường**
+### **Tuần 5: Chuẩn bị dự án & Cài đặt môi trường**
 
 - Làm việc nhóm và xác định phạm vi dự án  
 - Thiết kế kiến trúc hệ thống  

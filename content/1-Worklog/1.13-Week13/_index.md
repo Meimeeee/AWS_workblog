@@ -6,11 +6,11 @@ chapter: false
 pre: " <b> 1.13. </b> "
 ---
 
-### Week 13 Objectives
+### Key Goals for Week 13
 
-This week focused on post-deployment monitoring, performance optimization, bug fixing, and gathering user feedback after the system officially went live.
+The primary focus of this week was post-deployment monitoring, performance optimization, bug fixing, and gathering user feedback after the system officially went live.
 
-- **Post-Deployment Monitoring**:
+- **Post-Implementment Monitoring**:
   - Monitor system performance and uptime
   - Analyze logs and detect anomalies
   - Ensure system stability under real user load
@@ -32,9 +32,9 @@ This week focused on post-deployment monitoring, performance optimization, bug f
 
 ---
 
-### Tasks Overview
+### Summary of Work
 
-| Day | Task | Start Date | Completion Date | References |
+| Day | Work Item | Begun On | Finished On | Sources |
 | :-: |------|:----------:|:---------------:|------------|
 |  2  | **System Monitoring**:<br>- Track logs & metrics<br>- Check uptime | 06/04/2026 | 06/04/2026 | CloudWatch |
 |  3  | **Performance Optimization**:<br>- Optimize queries<br>- Improve API speed | 07/04/2026 | 08/04/2026 | Internal |
@@ -44,9 +44,9 @@ This week focused on post-deployment monitoring, performance optimization, bug f
 
 ---
 
-### Week 13 Achievements
+### Week 13 Key Accomplishments
 
-#### What was accomplished
+#### Successful Deliverables
 
 - Monitored system performance after **official go-live**
 - Identified and resolved initial bugs from real users
@@ -55,7 +55,7 @@ This week focused on post-deployment monitoring, performance optimization, bug f
 - Collected valuable insights for future development
 - Established a stable post-deployment workflow
 
-#### Architecture Summary
+#### High-Level Architecture
 
 - **Stage**: Post-production / Maintenance
 - **Monitoring**: Continuous tracking (logs, metrics, alerts)

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1.11. </b> "
 ---
 
-### Mục tiêu Tuần 11
+### Nội dung công việc trọng tâm Tuần 11
 
 Tuần này tập trung vào kiểm thử tích hợp, tối ưu hiệu năng, xác thực hạ tầng và tăng cường bảo mật cho môi trường production nhằm đảm bảo hệ thống sẵn sàng triển khai.
 
@@ -32,15 +32,15 @@ Tuần này tập trung vào kiểm thử tích hợp, tối ưu hiệu năng, x
 
 ---
 
-### Tổng quan công việc
+### Tóm tắt các đầu việc
 
-| Ngày | Công việc | Ngày bắt đầu | Ngày hoàn thành | Tài liệu |
+| Ngày | Công việc | Bắt đầu | Kết thúc | Tài liệu |
 | :-: |----------|:------------:|:---------------:|----------|
 |  2  | **Kiểm thử tích hợp**:<br>- Test end-to-end<br>- Kiểm tra luồng hệ thống | 23/03/2026 | 24/03/2026 | Nội bộ |
 |  3  | **Sửa lỗi**:<br>- Fix lỗi tích hợp<br>- Debug hệ thống | 25/03/2026 | 26/03/2026 | Nội bộ |
 |  4  | **Tối ưu hiệu năng**:<br>- Tối ưu query<br>- Cải thiện tốc độ | 27/03/2026 | 28/03/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
 |  5  | **Xác thực hạ tầng**:<br>- Kiểm tra dịch vụ<br>- Test độ ổn định | 29/03/2026 | 30/03/2026 | [AWS Docs](https://cloudjourney.awsstudygroup.com/) |
-|  6  | **Hardening bảo mật**:<br>- Cấu hình bảo mật<br>- Thiết lập logging | 31/03/2026 | 01/04/2026 | Security Docs |
+|  6  | **Hardening bảo mật**:<br>- Cấu hình bảo mật<br>- Cài đặt logging | 31/03/2026 | 01/04/2026 | Security Docs |
 
 ---
 
@@ -55,7 +55,7 @@ Tuần này tập trung vào kiểm thử tích hợp, tối ưu hiệu năng, x
 - Áp dụng hardening bảo mật cho hệ thống
 - Sẵn sàng cho triển khai chính thức
 
-#### Tóm tắt kiến trúc
+#### Cấu trúc tổng quan
 
 - **Testing**: Kiểm thử tích hợp & end-to-end
 - **Hiệu năng**: Backend & database được tối ưu
